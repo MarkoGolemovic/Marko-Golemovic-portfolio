@@ -1,0 +1,87 @@
+.body {
+    margin: 0;
+    background: #696969;
+    box-sizing: border-box;
+}
+
+.flex__container {
+    display: flex;
+}
+
+.direction__row {
+    flex-direction: row;
+}
+
+.direction__col {
+    flex-direction: column;
+}
+
+.flex__wrap {
+    flex-wrap: wrap;
+}
+
+.flex__nowrap {
+    flex-wrap: nowrap;
+}
+
+.cta__button_main {
+    z-index: 1;
+    font-size: 28px;
+    position: relative;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+    transition: .3s ease-in-out;
+    background-color: hsl(236, 32%, 26%);
+}
+
+.cta__button_main::before {
+    content: '';
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fc2f70;
+    transform-origin: center right;
+    transform: scaleX(0);
+    transition: transform 0.25s ease-in-out;
+}
+
+.cta__button_main:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+.cta__button_main:hover::before {
+    transform-origin: center left;
+    transform: scaleX(1);
+}
+
+.link__container a {
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+    text-transform: uppercase;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.link__container a::before {
+    content: '';
+    background: black;
+    width: 0;
+    min-height: 3px;
+    height: 100%;
+    position: relative;
+    transition: all .3s ease-in-out;
+    transform-origin: left;
+}
+
+.link__container a:hover::before {
+    width: 50px
+}
