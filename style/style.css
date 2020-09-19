@@ -1,4 +1,8 @@
-.body {
+/**
+*@author: Marko Golemovic
+*/
+
+.flex__wrap {
     margin: 0;
     background: #696969;
     box-sizing: border-box;
