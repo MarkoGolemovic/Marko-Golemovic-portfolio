@@ -50,7 +50,7 @@
     left: 0;
     right: 0;
     background-color: #fc2f70;
-    transform-origin: center right;
+    transform-origin: center;
     transform: scaleX(0);
     transition: transform 0.25s ease-in-out;
 }
@@ -61,7 +61,7 @@
 }
 
 .cta__button_main:hover::before {
-    transform-origin: center left;
+    transform-origin: center;
     transform: scaleX(1);
 }
 
