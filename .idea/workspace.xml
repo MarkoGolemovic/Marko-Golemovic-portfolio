@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="933fa137-1bfd-46b4-a16d-73e46dd2a147" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunAnythingCache">
@@ -67,6 +67,8 @@
       <updated>1601101947638</updated>
       <workItem from="1601101951521" duration="4326000" />
       <workItem from="1601111524245" duration="248000" />
+      <workItem from="1601115895260" duration="32000" />
+      <workItem from="1601115940901" duration="2693000" />
     </task>
     <task id="LOCAL-00001" summary="New change's to web site portfolio">
       <created>1601107703191</created>
@@ -102,6 +104,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="353" y="134" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1601106346293" />
+    <state x="552" y="160" key="#Plugins" timestamp="1601115999852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1601115999852" />
     <state x="511" y="233" key="#Web_Browsers" timestamp="1601102704596">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
@@ -109,10 +115,11 @@
     <state x="511" y="232" key="#Web_Browsers/0.23.1440.812@0.23.1440.812" timestamp="1601102576881" />
     <state x="511" y="233" key="#Web_Browsers/0.23.1440.814@0.23.1440.814" timestamp="1601102704596" />
     <state x="511" y="233" key="#Web_Browsers/0.23.1440.816@0.23.1440.816" timestamp="1601102600356" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1601111474251">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1601117426670">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601111474251" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601117426670" />
     <state x="0" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1601102172426" />
     <state x="319" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601111391261">
       <screen x="0" y="0" width="1440" height="900" />
