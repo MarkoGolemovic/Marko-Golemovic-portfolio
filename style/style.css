@@ -89,3 +89,13 @@
 .link__container a:hover::before {
     width: 50px
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
