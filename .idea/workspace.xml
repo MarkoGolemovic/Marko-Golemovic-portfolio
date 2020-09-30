@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="933fa137-1bfd-46b4-a16d-73e46dd2a147" name="Default Changelist" comment="changing navigation to inline">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
       <workItem from="1601111524245" duration="248000" />
       <workItem from="1601287789677" duration="175000" />
       <workItem from="1601288020921" duration="2000" />
+      <workItem from="1601467604371" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="New change's to web site portfolio">
       <created>1601107703191</created>
