@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="933fa137-1bfd-46b4-a16d-73e46dd2a147" name="Default Changelist" comment="changing navigation to inline">
+    <list default="true" id="933fa137-1bfd-46b4-a16d-73e46dd2a147" name="Default Changelist" comment="fixing bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <workItem from="1601111524245" duration="248000" />
       <workItem from="1601287789677" duration="175000" />
       <workItem from="1601288020921" duration="2000" />
-      <workItem from="1601467604371" duration="121000" />
+      <workItem from="1601467604371" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="New change's to web site portfolio">
       <created>1601107703191</created>
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601107703191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixing bug">
+      <created>1601467856146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601467856146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New change's to web site portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="New change's to web site portfolio" />
+    <MESSAGE value="fixing bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing bug" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="134" key="#Inspections" timestamp="1601106346293">
@@ -117,10 +126,11 @@
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601111474251" />
     <state x="0" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1601102172426" />
-    <state x="319" y="191" key="Vcs.Push.Dialog.v2" timestamp="1601271916193">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="425" y="216" key="Vcs.Push.Dialog.v2" timestamp="1601467864236">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="319" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601111391261" />
+    <state x="425" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601467864236" />
     <state x="319" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1601271916193" />
     <state x="531" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601271902250">
       <screen x="0" y="23" width="1440" height="808" />
