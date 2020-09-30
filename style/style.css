@@ -1,5 +1,6 @@
 /**
 *@author: Marko Golemovic
+*
 */
 
 .flex__wrap {
@@ -95,16 +96,18 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: white;
+
 }
 
 li {
     float: left;
+
 }
 
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
